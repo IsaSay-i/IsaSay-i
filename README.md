@@ -11,9 +11,9 @@ Back-End por ser minha área de interesse apesar de gostar de ambas as áreas.
 A razão do meu estudo generalizado também tem haver com me manter atualizada e de me aprimorar cada
 vez mais.
 
-Entre em contato:
+**Entre em contato:**
 
-- 📚 **Ferramentas familiarizadas:**
+-📚 **Ferramentas familiarizadas:**
     - HTML
     - PHP
     - Java
@@ -22,7 +22,7 @@ Entre em contato:
     - Git
     - PgAdmin
 
-- 🌱 **Linguagens que estudo atualmente:**
+-🌱 **Linguagens que estudo atualmente:**
     - Back:
       - Python
       - Node
@@ -35,7 +35,7 @@ Entre em contato:
      
 - Algumas Estatisticas:
         
-- 👀 **Estou de olho em expandir meu conhecimento sobre:**
+-👀 **Estou de olho em expandir meu conhecimento sobre:**
     - POO
     - Git
     - Estrutura do Linux
