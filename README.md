@@ -2,6 +2,7 @@
 
 https://gifdb.com/gif/hollow-knight-498-x-473-gif-55nmhdwcja7582bt.html?embed=true
 
+##Sobre mim:
 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma
 em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH.
 Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em
