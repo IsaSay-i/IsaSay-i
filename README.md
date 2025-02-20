@@ -16,7 +16,7 @@
   </p>
 </div>
 
-## Entre em contato:
+## Entre em contato 😁:
 
 <hr>
 
@@ -24,19 +24,18 @@
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 ## 📋 Projetos:
-  
-
-## 🌱 Linguagens que estudo atualmente:
-- **Back:** <br>
-  Python - Node - Java <br>
-- **Front:** <br>
-  HTML - CSS - React - JS
 
 <hr>
      
 ## Algumas Estatisticas:
 
 <hr>
+
+## 🌱 Linguagens que estudo atualmente:
+- **Back:** <br>
+  Python - Node - Java <br>
+- **Front:** <br>
+  HTML - CSS - React - JS
         
 ## 👀 Estou de olho em aprender mais sobre:
   - POO
@@ -46,6 +45,6 @@
   - Fluxogramas
   - Japonês
 
-<p size=20>🤗</p>
+<p font-size=20>🤗</p>
 
 (contribuição jogo da cobrinha)
