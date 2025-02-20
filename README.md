@@ -1,4 +1,3 @@
-
 ## HELLO POVO!
 ##👋 Sou a **@IsaSay-i** (_Isabelle Sayuri Isa_)
 
@@ -14,7 +13,7 @@ vez mais.
 **Entre em contato:**
 <hr>
 
-<h2>📚**Ferramentas familiarizadas:** </h2> <br>
+📚 **Ferramentas familiarizadas:** <br>
     - HTML
     - PHP
     - Java
@@ -23,7 +22,8 @@ vez mais.
     - Git
     - PgAdmin
 
-<h2>🌱**Linguagens que estudo atualmente:** </h2>
+🌱 **Linguagens que estudo atualmente:** <br>
+
 - Back:
   Python - Node - Java <br>
 - Front:
