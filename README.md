@@ -24,7 +24,7 @@
 ## 📚 Ferramentas familiarizadas: <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
-## Projetos:
+## 📋 Projetos:
   
 
 ## 🌱 Linguagens que estudo atualmente:
@@ -39,7 +39,7 @@
 
 <hr>
         
-## 👀 Estou de olho em expandir meu conhecimento sobre:
+## 👀 Estou de olho em aprender mais sobre:
   - POO
   - Git
   - Estrutura do Linux
