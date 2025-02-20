@@ -27,9 +27,7 @@ vez mais.
     - Back:    
       Python
       - Node
-      - Java
-
-      
+      - Java<br>
     - Front:     
       HTML
       - CSS
