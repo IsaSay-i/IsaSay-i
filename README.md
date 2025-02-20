@@ -1,6 +1,6 @@
 <div style="text-align: center; margin-bottom: 20px;">
   <h2 style="margin-bottom: 0;"> 
-    <span style="font-size: 40px;">HELLO_POVO!</span> <br> 
+    <span style="font-size: 40px;">HELLO_POVO! 👋</span> <br> 
     Sou a <strong>@IsaSay-i</strong> <i>Isabelle Sayuri Isa</i>
   </h2>
 </div>
