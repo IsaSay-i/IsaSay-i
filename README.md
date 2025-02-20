@@ -6,16 +6,14 @@
   </h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
     <h3>Sobre mim:</h3>
     <p>
       Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma
       em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH.
-      <br><br>
       Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em
       Back-End por ser minha área de interesse apesar de gostar de ambas as áreas.
-      <br><br>
       A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada
       vez mais.
     </p>
