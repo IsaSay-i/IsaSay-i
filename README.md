@@ -14,7 +14,7 @@ vez mais.
 **Entre em contato:**
 <hr>
 
-📚 **Ferramentas familiarizadas:** <br>
+<h2>📚**Ferramentas familiarizadas:** </h2> <br>
     - HTML
     - PHP
     - Java
@@ -23,8 +23,7 @@ vez mais.
     - Git
     - PgAdmin
 
-🌱 **Linguagens que estudo atualmente:** <br>
-
+<h2>🌱**Linguagens que estudo atualmente:** </h2>
 - Back:
   Python - Node - Java <br>
 - Front:
