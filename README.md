@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&letterSpacing=1px&pause=1000&color=058D23&width=435&lines=HELLO_POVO!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div align=left>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=600&size=28&pause=1000&color=FFFFFF&background=B935FF4D&vCenter=true&repeat=false&width=500&lines=Sou+a+Isabelle+Sayuri+Isa" alt="Typing SVG" /></a>
+  <h1>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i></h1>
 
   <p style="text-align: justify;">
   Atualmente cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma  
