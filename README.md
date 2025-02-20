@@ -2,7 +2,7 @@
   <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/assets/hollow-knight-spin.gif" width="250">
 </p>
 
-<h1 align="left">👋HELLO_POVO! Sou <strong>@IsaSay-i</strong> <i>(Isabelle Sayuri Isa)</i></h1>
+<h1 align="left">👋HELLO_POVO! <br> Sou <strong>@IsaSay-i</strong> <i>(Isabelle Sayuri Isa)</i></h1>
 
 ## Sobre mim:
 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma  
