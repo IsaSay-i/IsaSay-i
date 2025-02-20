@@ -19,7 +19,7 @@ vez mais.
     - PHP
     - Java
     - VSCode
-    - SQL
+    - MySQL
     - Git
     - PgAdmin
 
