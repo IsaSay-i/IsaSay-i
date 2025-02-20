@@ -10,14 +10,14 @@
     <h3>Sobre mim:</h3>
     <p>
       Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma
-      em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH.
+      em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha, Auxiliar de Administração e de RH.
       Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em
       Back-End por ser minha área de interesse apesar de gostar de ambas as áreas.
       A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada
       vez mais.
     </p>
   </div>
-  <img src="https://gifdb.com/images/high/hollow-knight-498-x-473-gif-55nmhdwcja7582bt.gif" width="250" height="250" style="margin-left: 20px;">
+  <img src="https://gifdb.com/gif/hollow-knight-498-x-473-gif-55nmhdwcja7582bt.html?embed=true" width="250" height="250" style="margin-left: 20px;">
 </div>
 
 
