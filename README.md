@@ -4,7 +4,7 @@
   Sou <strong>@IsaSay-i</strong> <i>(Isabelle Sayuri Isa)</i>
 </h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
     <h3>Sobre mim:</h3>
     <p>
