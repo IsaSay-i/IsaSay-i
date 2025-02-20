@@ -1,6 +1,6 @@
 
   <p>
-    <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/assets/hollow-knight-spin.gif" width="250">
+    <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="250">
   </p>
 
 <span><h1 align="left">👋HELLO_POVO!</h1> <h2>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i> </h2></span>
