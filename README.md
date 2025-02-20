@@ -2,7 +2,8 @@
   <p>
     <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="250">
   </p>
-
+  
+<div>
 <span><h1 align="left">👋HELLO_POVO!</h1> <h2>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i> </h2></span>
 
   <p>
@@ -14,7 +15,7 @@
   </p>
 
   ## Entre em contato:
-
+</div>
 
 <hr>
 
