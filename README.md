@@ -12,8 +12,8 @@ A razão do meu estudo generalizado também tem haver com me manter atualizada e
 vez mais.
 
 **Entre em contato:**
-
--📚 **Ferramentas familiarizadas:**
+<hr>
+📚 **Ferramentas familiarizadas:**<br>
     - HTML
     - PHP
     - Java
@@ -22,11 +22,11 @@ vez mais.
     - Git
     - PgAdmin
 
--🌱 **Linguagens que estudo atualmente:**
-    - Back:
+🌱 **Linguagens que estudo atualmente:**<br>
+    - Back:<br>
       - Python
       - Node
-      - Java
+      - Java<br>
     - Front:
       - HTML
       - CSS
@@ -35,13 +35,13 @@ vez mais.
      
 - Algumas Estatisticas:
         
--👀 **Estou de olho em expandir meu conhecimento sobre:**
-    - POO
-    - Git
-    - Estrutura do Linux
-    - Banco de Dados (relacionais e não-relacionais)
-    - Fluxogramas
-    - Japonês
+👀 **Estou de olho em expandir meu conhecimento sobre:**
+  -POO
+  -Git
+  -Estrutura do Linux
+  -Banco de Dados (relacionais e não-relacionais)
+  -Fluxogramas
+  -Japonês
 
 🤗
 
