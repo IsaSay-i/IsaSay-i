@@ -8,7 +8,7 @@
 <div align=left>
 <h1>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i></h1>
 
-  <p style="text-align: justify;">
+  <p>
   Atualmente cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma  
   em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH. <br> 
   Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em  
@@ -32,18 +32,18 @@
 
 <hr>
      
-- Algumas Estatisticas:
+## Algumas Estatisticas:
 
 <hr>
         
-👀 **Estou de olho em expandir meu conhecimento sobre:**
-  -POO
-  -Git
-  -Estrutura do Linux
-  -Banco de Dados (relacionais e não-relacionais)
-  -Fluxogramas
-  -Japonês
+## 👀 Estou de olho em expandir meu conhecimento sobre:
+  - POO
+  - Git
+  - Estrutura do Linux
+  - Banco de Dados (relacionais e não-relacionais)
+  - Fluxogramas
+  - Japonês
 
-🤗
+<p size=20>🤗</p>
 
 (contribuição jogo da cobrinha)
