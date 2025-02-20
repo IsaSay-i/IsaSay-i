@@ -24,8 +24,11 @@ vez mais.
     - PgAdmin
 
 🌱 **Linguagens que estudo atualmente:** <br>
-    - Back:    Python - Node - Java <br>
-    - Front:   HTML - CSS - React - JS
+
+- Back:
+  Python - Node - Java <br>
+- Front:
+  HTML - CSS - React - JS
 
 <hr>
      
