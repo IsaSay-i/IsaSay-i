@@ -21,7 +21,7 @@
     </p>
   </div>
 
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/hollow-knight.gif" 
+  <img src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/assets/hollow-knight-spin.gif" 
        width="250" height="250" 
        style="margin-left: 20px; border-radius: 10px;">
 </div>
