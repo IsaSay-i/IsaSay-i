@@ -10,11 +10,9 @@
   </p>
 </div>
 
-<div align=right>
   <p>
-    <img src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="250">
+    <img align=right src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="250">
   </p>
-</div>
 
 
 ## Entre em contato:
