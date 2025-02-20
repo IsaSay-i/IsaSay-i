@@ -1,5 +1,5 @@
 
-<h1 align="left">👋HELLO_POVO! <br> Sou <strong>@IsaSay-i</strong> <i>(Isabelle Sayuri Isa)</i></h1>
+<h1 align="left">👋HELLO_POVO! <br> Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i> </h1>
 
 <div>
   <p>
