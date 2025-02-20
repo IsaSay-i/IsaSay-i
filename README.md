@@ -3,8 +3,8 @@
     <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="250">
   </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Mono&weight=800&size=32&letterSpacing=1px&pause=1000&color=058D23&width=435&lines=HELLO_POVO!+%F0%9F%91%8B" alt="Typing SVG" /></a> <br>
-<h2>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Mono&weight=800&size=32&letterSpacing=1px&pause=1000&color=058D23&width=435&lines=HELLO_POVO!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<h1>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i></h1>
 
   <p>
   Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma  
