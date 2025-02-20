@@ -1,10 +1,8 @@
 
-<div style="text-align: center;">
-  <h2 style="margin-bottom: 0;"> 
-    <span style="font-size: 55px;">👋HELLO_POVO!</span> <br> 
-    Sou a <strong>@IsaSay-i</strong> <i>Isabelle Sayuri Isa</i>
-  </h2>
-</div>
+<h2 style="text-align: center; font-size: 65px; margin-bottom: 0;"> 
+  👋HELLO_POVO! <br> 
+  Sou <strong>@IsaSay-i</strong> <i>(Isabelle Sayuri Isa)</i>
+</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
@@ -12,10 +10,8 @@
     <p>
       Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma
       em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH.
-      <br><br>
       Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em
       Back-End por ser minha área de interesse apesar de gostar de ambas as áreas.
-      <br><br>
       A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada
       vez mais.
     </p>
@@ -23,9 +19,8 @@
 
   <img src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/assets/hollow-knight-spin.gif" 
        width="250" height="250" 
-       style="margin-left: 20px; border-radius: 10px;">
+       style="border-radius: 10px; margin-left: 20px;">
 </div>
-
 
 **Entre em contato:**
 <hr>
