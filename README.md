@@ -4,9 +4,9 @@
   </p>
   
 <div>
-<span><h1 align="left">👋HELLO_POVO!</h1> <h2>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i> </h2></span>
+  <div><h1 align="left">👋HELLO_POVO!</h1> <h2>Sou a Isabelle Sayuri Isa <i>(@IsaSay-i)</i> </h2></div>
 
-  <p>
+  <p align="left">
   Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma  
   em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha e auxiliar de Administração e de RH. <br> 
   Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em  
