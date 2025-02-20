@@ -1,4 +1,4 @@
-<h2> <span style="font-size:100px">HELLO_POVO!</span> <br> Sou a @IsaSay-i <i>Isabelle Sayuri Isa</i></h2>
+<h2> <span style="font-size:100px">👋HELLO_POVO!</span> <br> Sou a @IsaSay-i <i>Isabelle Sayuri Isa</i></h2>
 
 ## Sobre mim:
 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, tenho diploma
