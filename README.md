@@ -20,8 +20,8 @@
 
 #
 
-<h3>📚 Ferramentas familiarizadas: </h3> <br>
-   HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
+<h3>📚 Ferramentas familiarizadas: </h3>
+HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 <h3>📋 Projetos: </h3>
 
