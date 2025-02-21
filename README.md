@@ -54,26 +54,26 @@
 ## 🌱 Estudando atualmente:
 
 <div align="left"> 
+  <p>
+    <strong style="vertical-align: middle;">Back-End:</strong>
+    <img width="13" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" height="50" alt="python logo"  />
+    <img width="13" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
+    <img width="13" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  </p>
   
-  <p style="text-align: center;"> <strong>Back-End:</strong> </p>
-  <img width="13" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="13" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
-  <img width="13" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  
-  <br>
-  
-  <p style="text-align: center;"> <strong>Front-End:</strong> </p>
-  <img width="13" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="13" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="13" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="13" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <p>
+    <strong style="vertical-align: middle;">Front-End:</strong>
+    <img width="13" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+    <img width="13" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+    <img width="13" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+    <img width="13" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  </p>
 </div>
-
 (contribuição jogo da cobrinha)
