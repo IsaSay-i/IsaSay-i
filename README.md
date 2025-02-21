@@ -55,7 +55,7 @@
 
 <div align="left"> 
   
-  **Back:**
+  <p style="text-align: center;"> <strong>Back-End:</strong> </p>
   <img width="13" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="13" /> 
@@ -65,7 +65,7 @@
   
   <br>
   
-  **Front:**
+  <p style="text-align: center;"> <strong>Front-End:</strong> </p>
   <img width="13" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="13" /> 
