@@ -18,23 +18,16 @@
 
 ## Entre em contato 😁:
 
-<table align="center">
-  <tr>
-    <td align="left" valign="top">
-      <h2>📚 Ferramentas familiarizadas:</h2> <br>
-      HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
-    </td>
-    <td valign="top">
-      <h2>🌱 Linguagens que estudo atualmente:</h2> <br>
-      - **Back:** <br>
-        Python - Node - Java <br>
-      - **Front:** <br>
-        HTML - CSS - React - JS
-    </td>
-  </tr>
-</table>
+## 📚 Ferramentas familiarizadas: <br>
+   HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 ## 📋 Projetos:
+
+## 🌱 Estudando atualmente:
+- **Back:** <br>
+  Python - Node - Java <br>
+- **Front:** <br>
+  HTML - CSS - React - JS
 
 ## Algumas Estatisticas:
 
