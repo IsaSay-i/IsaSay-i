@@ -20,10 +20,8 @@
 #
 
 <p>
-  <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="300px" height="300px">
+  <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="310px" height="310px">
 </p>
-
-<br>
 
 <h3>📚 Tecnologias familiarizadas: </h3>
 <div>
