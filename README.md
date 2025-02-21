@@ -7,11 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gemunu+Libre&weight=600&size=36&letterSpacing=1px&duration=3000&pause=1500&color=FFFFFF&background=FF5B0041&vCenter=true&width=520&height=60&lines=HELLO_POVO!%F0%9F%91%8B;Sou+a+Isabelle+Sayuri+Isa+%3AD" alt="Typing SVG" /></a>
 
 <p align="left">
-  Atualmente cursando Ciência da Computação na Cruzeiro do Sul e tenho diploma  
+  Atualmente, curso Ciência da Computação na Cruzeiro do Sul e tenho diploma  
   em Técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha. 
-  Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em  
-  Back-End por ser minha área de interesse apesar de gostar de ambas as áreas. <br> 
-  A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada vez mais \o/ 
+  Por hora estou ampliando meus conhecimentos de forma generalizada - expandindo minha base em Front-End e focando em  
+  Back-End, área pela qual tenho maior interesse, embora aprecie ambas as especializações. <br> 
+  A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
 
 ## Entre em contato 😁:
