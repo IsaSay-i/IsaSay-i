@@ -12,7 +12,7 @@
   Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em  
   Back-End por ser minha área de interesse apesar de gostar de ambas as áreas. <br> 
   A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada vez mais \o/ 
-</p> <br><br>
+</p> <br>
 
 ## Entre em contato 😁:
 
