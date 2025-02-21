@@ -36,12 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
+<br>
 
 <h3>📋 Projetos: </h3>
-<span>
-  <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim">TCC - SinaLibras</a> <p> - </p>
-  <a href="https://github.com/IsaSay-i/pamii-isabelle-isa">Ensino Médio - PAM-II (React Native)</a>
-</span>
+
+- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim">TCC - SinaLibras</a> <p> - </p>
+- <a href="https://github.com/IsaSay-i/pamii-isabelle-isa">Ensino Médio - PAM-II (React Native)</a>
 
 #
 
