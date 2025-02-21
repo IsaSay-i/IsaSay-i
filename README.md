@@ -13,6 +13,8 @@
   Back-End, área pela qual tenho maior interesse, embora aprecie ambas as especializações. <br> 
   A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
+![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&color=blue)
+
 
 #
 
@@ -24,6 +26,9 @@
 ## 📋 Projetos:
 
 ## Algumas Estatisticas:
+![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&layout=compact&theme=dracula)
+
 
 ## 🌱 Estudando atualmente:
 - **Back:** <br>
