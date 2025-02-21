@@ -4,7 +4,7 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gemunu+Libre&weight=600&size=35&letterSpacing=1px&duration=3000&pause=1500&color=FFFFFF&background=FF5B0041&vCenter=true&width=435&height=60&lines=HELLO_POVO!%F0%9F%91%8B;Sou+a+Isabelle+Sayuri+Isa+%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gemunu+Libre&weight=600&size=36&letterSpacing=1px&duration=3000&pause=1500&color=FFFFFF&background=FF5B0041&center=true&vCenter=true&width=500&height=60&lines=HELLO_POVO!%F0%9F%91%8B;Sou+a+Isabelle+Sayuri+Isa+%3AD" alt="Typing SVG" /></a>
 
 <p align="left">
   Atualmente cursando Ciência da Computação na Cruzeiro do Sul e tenho diploma  
