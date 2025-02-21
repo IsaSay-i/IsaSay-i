@@ -35,14 +35,5 @@
 - **Front:** <br>
   HTML - CSS - React - JS
         
-## 👀 Estou de olho em aprender mais sobre:
-  - POO
-  - Git
-  - Estrutura do Linux
-  - Banco de Dados (relacionais e não-relacionais)
-  - Fluxogramas
-  - Japonês
-
-<p font-size=20>🤗</p>
 
 (contribuição jogo da cobrinha)
