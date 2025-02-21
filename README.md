@@ -25,9 +25,13 @@
 
 ## Algumas Estatisticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5)
-![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+
+<div align="right">
+  
+  ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</div>
 
 ## 🌱 Estudando atualmente:
 - **Back:** <br>
