@@ -18,7 +18,7 @@
 
 ## Entre em contato 😁:
 
-<table>
+<table align="center">
   <tr>
     <td align="left" valign="top">
       <h2>📚 Ferramentas familiarizadas:</h2> <br>
