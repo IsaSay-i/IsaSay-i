@@ -12,7 +12,7 @@
 </p> <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&label=PROFILE+VIEWS&color=green&style=for-the-badge&abbreviated=true)
-[![ALT](https://img.shields.io/badge/-ALT-91F1FE?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/IsaSay-ii)
+[![ALT](https://img.shields.io/badge/-ALT-91F1FE?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/IsaSay-ii)
 
 #
 
