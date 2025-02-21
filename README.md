@@ -14,6 +14,8 @@
   A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
 
+<hr>
+
 ## Entre em contato 😁:
 
 #
