@@ -19,11 +19,13 @@
 ## Entre em contato 😁:
 
 <div align="left">
+  
 ## 📚 Ferramentas familiarizadas: <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 </div>
 
 <div align="right">
+  
 ## 🌱 Linguagens que estudo atualmente:
 - **Back:** <br>
   Python - Node - Java <br>
