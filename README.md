@@ -8,7 +8,7 @@
 
 <p align="left">
   Atualmente cursando Ciência da Computação na Cruzeiro do Sul e tenho diploma  
-  em técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha. 
+  em Técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha. 
   Por agora estou com um estudo generalizado das áreas - expandindo minha base em Front-End e com ênfase em  
   Back-End por ser minha área de interesse apesar de gostar de ambas as áreas. <br> 
   A razão do meu estudo generalizado também tem a ver com me manter atualizada e me aprimorar cada vez mais \o/ 
