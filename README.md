@@ -20,7 +20,7 @@
 #
 
 <p>
-  <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="300px" height="200px">
+  <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="300px" height="350px">
 </p>
 
 <h3>📚 Tecnologias familiarizadas: </h3>
