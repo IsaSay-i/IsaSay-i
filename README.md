@@ -16,7 +16,7 @@
 
 #
 
-<h3>Entre em contato 😁:</h3>
+<h2>Entre em contato 😁:</h2>
 
 <h3>📚 Ferramentas familiarizadas: </h3> <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
