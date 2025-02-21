@@ -21,6 +21,19 @@
 
 <h3>📚 Ferramentas familiarizadas: </h3>
 HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/git/git-original.svg" height="25" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+</div>
 
 <h3>📋 Projetos: </h3>
 
@@ -28,7 +41,7 @@ HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 <div style="text-align: center;" align="center">
 
-<h3>--------------------------    Algumas Estatisticas    --------------------------</h3> <br>
+<h3>--------------------------    Algumas Estatísticas    --------------------------</h3> <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) 
 ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=codeSTACKr)
@@ -38,8 +51,17 @@ HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 ## 🌱 Estudando atualmente:
 - **Back:** <br>
-  Python - Node - Java <br>
+  Python - Node - Java
+  <br>
 - **Front:** <br>
-  HTML - CSS - React - JS
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" /> -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" /> -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" /> -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+</div>
 
 (contribuição jogo da cobrinha)
