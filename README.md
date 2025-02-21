@@ -21,7 +21,7 @@
 
 <p>
   <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="300px" height="300px">
-  <br><br>
+  <br>
 </p>
 
 <h3>📚 Tecnologias familiarizadas: </h3>
