@@ -23,13 +23,12 @@
 
 ## 📋 Projetos:
 
+## Algumas Estatisticas:
+
 ## 🌱 Estudando atualmente:
 - **Back:** <br>
   Python - Node - Java <br>
 - **Front:** <br>
   HTML - CSS - React - JS
-
-## Algumas Estatisticas:
-
 
 (contribuição jogo da cobrinha)
