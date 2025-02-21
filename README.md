@@ -58,7 +58,7 @@
 
 <div style="text-align: center;" align="center">
 
-<h3>- - - -    Algumas Estatísticas    - - - -</h3> <br>
+<h3>*   Algumas Estatísticas   *</h3> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) 
 ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=codeSTACKr)
