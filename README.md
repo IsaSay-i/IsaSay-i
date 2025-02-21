@@ -40,7 +40,7 @@
 
 <h3>📋 Projetos: </h3>
 
-- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim">TCC - SinaLibras</a> <p> - </p>
+- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim">TCC - SinaLibras</a> 
 - <a href="https://github.com/IsaSay-i/pamii-isabelle-isa">Ensino Médio - PAM-II (React Native)</a>
 
 #
