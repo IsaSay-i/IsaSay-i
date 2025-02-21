@@ -16,19 +16,24 @@
 
 #
 
-## Entre em contato 😁:
+<h3>Entre em contato 😁:</h3>
 
-## 📚 Ferramentas familiarizadas: <br>
+<h3>📚 Ferramentas familiarizadas: </h3> <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
-## 📋 Projetos:
+<h3>📋 Projetos: </h3>
 
-## Algumas Estatisticas:
+#
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) <br>
+<h3 align>Algumas Estatisticas:</h3> <br>
+
+<div style="text-align: center;" align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) 
 ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IsaSay-i&locale=pt_BR&card_width=465)](https://git.io/streak-stats)
 
+</div>
 
 ## 🌱 Estudando atualmente:
 - **Back:** <br>
