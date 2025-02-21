@@ -11,7 +11,7 @@
   A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&label=PROFILE+VIEWS&color=green&style=for-the-badge&abbreviated=true)
 
 #
 
