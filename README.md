@@ -19,8 +19,12 @@
 
 #
 
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="300px" height="200px">
+</p>
+
 <h3>📚 Tecnologias familiarizadas: </h3>
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -40,8 +44,8 @@
 
 <h3>📋 Projetos: </h3>
 
-- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim">TCC - SinaLibras</a> 
-- <a href="https://github.com/IsaSay-i/pamii-isabelle-isa">Ensino Médio - PAM-II (React Native)</a>
+- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a> 
+- <a href="https://github.com/IsaSay-i/pamii-isabelle-isa" target="_blank">Ensino Médio - PAM-II (React Native)</a>
 
 #
 
