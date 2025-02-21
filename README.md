@@ -2,8 +2,7 @@
   <img align="right" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/hollow-knight-spin.gif" width="300px" height="300px">
 </p>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gemunu+Libre&weight=600&size=36&letterSpacing=1px&duration=3000&pause=1500&color=FFFFFF&background=FF5B0041&vCenter=true&width=520&height=60&lines=HELLO_POVO!%F0%9F%91%8B;Sou+a+Isabelle+Sayuri+Isa+%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gemunu+Libre&weight=600&size=36&letterSpacing=1px&duration=3000&pause=1500&color=FFFFFF&background=FF4100E4&vCenter=true&width=520&height=60&lines=HELLO_POVO!%F0%9F%91%8B;Sou+a+Isabelle+Sayuri+Isa+%3AD" alt="Typing SVG" /></a>
 <p align="left">
   Atualmente, curso Ciência da Computação na Cruzeiro do Sul e tenho diploma  
   em Técnico de Desenvolvimento de Sistemas pela Etec Camargo Aranha. 
@@ -29,7 +28,7 @@ HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 <div style="text-align: center;" align="center">
 
-<h3>Algumas Estatisticas:</h3> <br>
+<h3>------- Algumas Estatisticas -------</h3> <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) 
 ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=codeSTACKr)
