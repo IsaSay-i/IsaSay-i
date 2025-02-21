@@ -47,6 +47,8 @@
 - <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a> 
 - <a href="https://github.com/IsaSay-i/pamii-isabelle-isa" target="_blank">Ensino Médio - PAM-II (React Native)</a>
 
+<br>
+
 #
 
 <div style="text-align: center;" align="center">
