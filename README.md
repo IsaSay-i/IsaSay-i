@@ -14,28 +14,26 @@
   A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
 
-<hr>
+#
 
 ## Entre em contato 😁:
 
-#
-
+<div align="left">
 ## 📚 Ferramentas familiarizadas: <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
+</div>
 
-## 📋 Projetos:
-
-#
-
-## Algumas Estatisticas:
-
-#
-
+<div align="right">
 ## 🌱 Linguagens que estudo atualmente:
 - **Back:** <br>
   Python - Node - Java <br>
 - **Front:** <br>
   HTML - CSS - React - JS
-        
+</div>
+
+## 📋 Projetos:
+
+## Algumas Estatisticas:
+
 
 (contribuição jogo da cobrinha)
