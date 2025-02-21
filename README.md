@@ -11,11 +11,15 @@
   A razão desse meu estudo também envolve meu compromisso em me manter atualizada e aprimorar constantemente minhas habilidades.
 </p> <br>
 
+[![GitHub Alt Account](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/IsaSay-ii)
 ![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&color=blue)
 
 #
 
 <h3>Entre em contato 😁:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isabelle.say.isa@gmail.com)
 
 #
 
