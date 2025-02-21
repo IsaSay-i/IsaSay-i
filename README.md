@@ -16,18 +16,18 @@
 
 ## Entre em contato 😁:
 
-<hr>
+#
 
 ## 📚 Ferramentas familiarizadas: <br>
    HTML - PHP - Java - VSCode - MySQL - Git - PgAdmin
 
 ## 📋 Projetos:
 
-<hr>
-     
+#
+
 ## Algumas Estatisticas:
 
-<hr>
+#
 
 ## 🌱 Linguagens que estudo atualmente:
 - **Back:** <br>
