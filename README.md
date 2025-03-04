@@ -67,7 +67,7 @@
 </div>
 
 
-## 🌱 Estudando atualmente:
+<h2>🌱 Estudando atualmente:</h2>
 
 <div align="left"> 
   <p>
