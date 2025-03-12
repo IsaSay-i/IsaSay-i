@@ -29,8 +29,9 @@
   <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="310px" height="310px">
 </p>
 
-<img height="15" />
-<h3>📚 Tecnologias familiarizadas: </h3>
+<br>
+
+<h3 width="60%">📚 Tecnologias familiarizadas: </h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
@@ -56,22 +57,18 @@
 
 <br>
 
-#
-
 <div style="text-align: center;" align="center">
 
-<h3>*   Algumas Estatísticas   *</h3> <br>
+<h2>📊  Algumas Estatísticas  📈</h2> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaSay-i&size_weight=0.5&count_weight=0.5&theme=swift) 
 ![IsaSay-i GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaSay-i&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IsaSay-i&locale=pt_BR&card_width=465)](https://git.io/streak-stats)
 
-</div>
-
-
+<br>
 <h2>🌱 Estudando atualmente:</h2>
 
-<div align="left"> 
+<div align="center"> 
   <p>
     <strong style="vertical-align: middle;">Back-End:</strong>
     <img width="13" /> 
@@ -93,6 +90,7 @@
     <img width="13" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   </p>
+</div>
 </div>
 
 #
