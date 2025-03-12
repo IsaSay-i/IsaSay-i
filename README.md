@@ -14,6 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=IsaSay-i&label=PROFILE+VIEWS&color=green&style=for-the-badge&abbreviated=true)
 [![ALT](https://img.shields.io/badge/-ALT-91F1FE?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/IsaSay-ii)
 
+<br>
 
 <div align="center">
 <h2>Entre em contato 😁:</h2>
@@ -23,6 +24,7 @@
 </div>
 
 <br>
+#
 
 <p>
   <img align="left" src="https://raw.githubusercontent.com/IsaSay-i/IsaSay-i/main/src/notebook.png" width="310px" height="310px">
