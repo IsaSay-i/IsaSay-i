@@ -79,8 +79,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
     <img width="13" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+    <img width="13" />
+    - <a href="https://github.com/IsaSay-i/estudos-back">estudos-back</a>
   </p>
-  
   <p>
     <strong style="vertical-align: middle;">Front-End:</strong>
     <img width="13" /> 
@@ -91,6 +92,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
     <img width="13" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+    <img width="13" />
+    - <a href="https://github.com/IsaSay-i/estudos-front">estudos-front</a>
   </p>
 </div>
 </div>
