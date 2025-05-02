@@ -54,7 +54,8 @@
 
 <h3>📋 Projetos: </h3>
 
-- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a> 
+- <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a>
+- <a href="https://isasay-i.github.io/prof_code/" target="_blank">prof_code - Aplicações para Internet
 - <a href="https://github.com/IsaSay-i/pamii-isabelle-isa" target="_blank">Ensino Médio - PAM-II (React Native)</a>
 
 <br>
