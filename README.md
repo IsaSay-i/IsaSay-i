@@ -36,29 +36,40 @@
 <h3 width="60%">📚 Tecnologias familiarizadas: </h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
+  <img width="15" /> <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="15" />
+  <img width="15" /> <!-- CSS -->
+  <img src="https://www.svgrepo.com/show/508894/aspnet.svg" height="50" alt="aspnet logo" />
+  <img width="15" /> <!-- ASPNET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" alt="c# logo" />
+  <img width="15" /> <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="15" />
+  <img width="15" /> <!-- JAVA -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="15" /> <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="15" />
+  <img width="15" /> <!-- MySQL -->
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="50" alt="git logo"  />
-  <img width="15" />
+  <img width="15" /> <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+   <!-- Postgre -->
 </div>
 
-<br>
+<br><br><br><br>
 
+<p>
+  <img width="310" height="250" align="left" src"https://github.com/user-attachments/assets/ebd826ce-adda-458b-b51b-dc47d74843d0"= />
+</p>
+
+<div>
 <h3>📋 Projetos: </h3>
 
 - <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a>
 - <a href="https://isasay-i.github.io/prof_code/" target="_blank">prof_code - Aplicações para Internet
 - <a href="https://github.com/IsaSay-i/pamii-isabelle-isa" target="_blank">Ensino Médio - PAM-II (React Native)</a>
+</div>
 
-<br>
+<br><br><br><br>
 
 <div style="text-align: center;" align="center">
 
