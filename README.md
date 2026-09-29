@@ -55,7 +55,7 @@
    <!-- Postgre -->
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <div align="center">
 <h3>📋 Projetos: </h3>
@@ -65,7 +65,7 @@
 - <a href="https://github.com/IsaSay-i/pamii-isabelle-isa" target="_blank">Ensino Médio - PAM-II (React Native)</a>
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <div style="text-align: center;" align="center">
 
