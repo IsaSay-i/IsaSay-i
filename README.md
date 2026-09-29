@@ -57,9 +57,7 @@
 
 <br><br><br><br>
 
-<p>
-  <img width="310" height="250" align="left" src"https://github.com/user-attachments/assets/ebd826ce-adda-458b-b51b-dc47d74843d0"= />
-</p>
+<p></p>
 
 <div>
 <h3>📋 Projetos: </h3>
