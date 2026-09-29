@@ -57,9 +57,7 @@
 
 <br><br><br><br>
 
-<p></p>
-
-<div>
+<div align="center">
 <h3>📋 Projetos: </h3>
 
 - <a href="https://github.com/Pedr0AZ/TCC-LB/tree/caso-der-ruim" target="_blank">TCC - SinaLibras</a>
